@@ -1,12 +1,15 @@
 .projects__container{
-  padding-top: 1rem;
+  padding: 0.5rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+
 }
 .projects__filters{
   display: flex;
   justify-content: center;
   align-items: center;
   column-gap: 0.75rem;
-  margin-bottom: 2rem;
+  margin: 2rem;
 }
 .projects__item{
   cursor: pointer;
