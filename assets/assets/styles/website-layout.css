@@ -1,0 +1,21 @@
+@import url(/assets/styles/styles.css);
+
+.home__buttons{
+  margin-top: 2rem;
+  margin-left: 2rem;
+  width: 80%;
+  cursor: pointer;
+}
+.header{
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 2rem;
+}
+.section{
+  position: absolute;
+  margin: 0 2rem;
+  display: inline-block; 
+}
+p{
+  margin: 1.5rem 0;
+}
